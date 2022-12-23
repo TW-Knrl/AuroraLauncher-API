@@ -1,3 +1,3 @@
 # Aurora Launcher API
 
-The api for the launcher https://github.com/TW-Knrl/AuroraLauncher
+The api for the [Launcher](https://github.com/TW-Knrl/AuroraLauncher)
